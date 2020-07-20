@@ -1,6 +1,6 @@
 {
   "name": "eth-keygen",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Keygen for Ethereum keys and EOA's",
   "main": "index.js",
   "publishConfig": {
