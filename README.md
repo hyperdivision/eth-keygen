@@ -1,5 +1,7 @@
 # `eth-keygen`
 
+[![Build Status](https://travis-ci.org/hyperdivision/eth-keygen.svg?branch=master)](https://travis-ci.org/hyperdivision/eth-keygen)
+
 > Keygen for Ethereum keys and EOA's
 
 ## Usage
